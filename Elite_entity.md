@@ -67,7 +67,7 @@ It will also give opportuinty to user to donate to nearby hospital/ blood bank /
 
 
 ## Future Scope
-1.Adding the colour option in blood group of blood bank in which an user will donate to a particular bank will have blood, 
+1.Adding the colour option in blood group of blood bank in which an user will donate to a particular bank will have blood. 
 2. Add search option 
 3. Add google maps to reach blood banks or needy people easily
 4. Online payment feature
