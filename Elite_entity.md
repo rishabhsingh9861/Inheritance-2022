@@ -4,11 +4,15 @@
 Team name: Elite entity
 
 ## Team members
+
 [Rishabh Singh](https://github.com/rishabhsingh9861) -
-RtSingh_b21@ci.vjti.ac.in
+RtSingh_b21@ci.vjti.ac.in 
+
 [Rohit Karwatkar](https://github.com/rohitkarwatkar001) -
-rtkawatkar_b21@pe.vjti.ac.in
-[Yash gundale]
+rtkawatkar_b21@pe.vjti.ac.in 
+
+[Yash gundale] 
+
 [Nivedita shinde]
 
 ## Mentors
